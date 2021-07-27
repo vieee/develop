@@ -7,19 +7,20 @@ have saved.
 ### API 1
 #### POST /sites
 [POST] /app/sites
+
 Request Data: {
 'website': str,
 'username': str,
 'password': str
 }
-
 Response Data: {
 'status': 'The website has been successfully inserted.'
 }
 
 ### API 2
 #### GET /sites/list/:username
-[GET] /app/sites/list
-Request Data: None
 
+[GET] /app/sites/list
+
+Request Data: None
 Response Data: [List of stored website username & passwords]
