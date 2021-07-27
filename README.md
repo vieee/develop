@@ -24,3 +24,8 @@ Response Data: {
 
 Request Data: None
 Response Data: [List of stored website username & passwords]
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/develop/master/public/a.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/develop/master/public/b.png" width="47%" /> 
+</p>
