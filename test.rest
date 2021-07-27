@@ -1,0 +1,13 @@
+###
+GET http://localhost:3000/sites/list/apte HTTP/1.1
+###
+POST http://localhost:3000/sites HTTP/1.1
+Content-Type: application/json
+
+{
+    "website_name": "apte.it.in",
+    "username": "apte",
+    "password": "Opejr123"
+}
+
+
