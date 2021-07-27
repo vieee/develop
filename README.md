@@ -16,6 +16,7 @@ Response Data: {
 'status': 'The website has been successfully inserted.'
 }
 
+### API 2
 #### GET /sites/list/:username
 [GET] /app/sites/list
 Request Data: None
