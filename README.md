@@ -12,6 +12,7 @@ Request Data: {
 'username': str,
 'password': str
 }
+
 Response Data: {
 'status': 'The website has been successfully inserted.'
 }
@@ -20,4 +21,5 @@ Response Data: {
 #### GET /sites/list/:username
 [GET] /app/sites/list
 Request Data: None
+
 Response Data: [List of stored website username & passwords]
